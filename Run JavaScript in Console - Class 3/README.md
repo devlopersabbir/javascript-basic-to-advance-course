@@ -19,3 +19,5 @@
 alert("Hello JavaScript!");
 console.log("Hello JavaScript from the developer console.");
 ```
+
+**You can get the video sourse code in the `Run JavaScript in console directory`**
