@@ -95,9 +95,9 @@ Mozilla FireFox         <<<=====>>> SpiderMonkey Engine
 ======================= Episode Number 3 =======================
 -->
 
-## Episode - 3 (How to open JavaScript in browser console)
+## Episode - 3 (How to run JavaScript in browser console)
 
-### [3. Open JavaScript in Console](https://youtu.be/b59h_KhWoIQ?list=PLdcGGiDG9Q0h4-g7UmW58c4-rki6aRleq)
+### [3. Run JavaScript in Console](https://youtu.be/b59h_KhWoIQ?list=PLdcGGiDG9Q0h4-g7UmW58c4-rki6aRleq)
 
 #### 3.1 What are the `developer tools`?
 
