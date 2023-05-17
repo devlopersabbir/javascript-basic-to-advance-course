@@ -1,0 +1,1 @@
+alert(5+5+5); console.log("hello"); alert("15 anser hobe");
