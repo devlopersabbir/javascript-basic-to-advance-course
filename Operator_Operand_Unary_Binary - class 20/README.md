@@ -4,7 +4,11 @@
 2. `-` -> Subtraction
     - j kono 2 ta songkkha ba tar beshi o hote pare,, tader minus korte ay subtruction operator ta use kora hoy
 3. `*` -> Multiplication
-    - This will help us to get multiplication like 
+    - 2 ta songkkhar moddhe gun korte help kore
+    - Example
+      ```js
+      console.log(20 * 40); // output -> 800
+      ```
 4. `/` -> Division
     - 2 ta songkkha k vag korar jonno division use kora hoy
 5. `%` -> Modulus / Division Remainder
@@ -21,8 +25,10 @@
 7. `++` -> Increment
     - ata sudhu matro purber songkkhar sathe 1 jog kore
 8. `--` -> Decrement
-    - ata sudhu matro purber songkkhar sathe 1 biyok kore
-**Today we will learn: Operand, Unary and Binary**
+    - ata sudhu matro purber songkkhar sathe 1 biyok more
+
+####
+**Today we will learn: Operand, Unary, and Binary**
 - Operator
     - **Defination**
         - jei somostho chinho bebohar kore vibinno mathmathical operator kora hoy tader k operator bole.
