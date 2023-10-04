@@ -13,7 +13,7 @@
     - 2 ta songkkha k vag korar jonno division use kora hoy
 5. `%` -> Modulus / Division Remainder
     - 2 ta songkha k vag korar por kono vag shesh pawyar jonno `modules` use kora hoy
-6. `**` -> Exponentiation 
+6. `**` -> Exponentiation -> এক্সপোনেনচিয়েশন
     - math ar moddher power ta ber korar jonno `exponentiation` operator use kora hoy
     - Example
         ```js
