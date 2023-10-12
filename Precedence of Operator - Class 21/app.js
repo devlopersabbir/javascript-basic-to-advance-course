@@ -1,12 +1,18 @@
 const a = 4;
-const b = 2;
+const b = 3;
 
-console.log(a + b * 3); // 4 + 2 = ? * 3 = 10
+console.log(a + b); // 7
 
-console.log(12 / 2 - b); // 4
+/**
+ * Precedence
+ * (*)
+ * (/)
+ */
+console.log(a + b * 5); // 4 + 3 * 5 =>
+// 3 * 5 -> 15 + 4
+console.log("Expression", 8 / (4 - 3)); // ? - 3 => -1
 
-const result = 4 * 2 + 40 / 2 - 1; // 4 * 2 = ? + 40 / 2 = ? - 2 = ?
-console.log(result);
+// starting with left
+console.log(7 * 3 * a - b + 20); // 7 * 3 = ? * 4 => ? - 3 => ? + 20
 
-// expression
-console.log((2 + 5) * 3); // 21
+console.log(5 ** (5 - 2)); // 3
