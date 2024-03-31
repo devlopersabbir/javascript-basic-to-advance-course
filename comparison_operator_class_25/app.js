@@ -10,14 +10,19 @@
  */
 
 // const num1 = 5;
-// const result = "5" !== 5; // boolean
-// // const result1 = "5" != 5; // boolean
-
+// const num2 = 8;
+// const result = 5 !== 8; // boolean
 // console.log(result);
-// // console.log(result1);
+/**
+ * true = 1
+ * false = 0
+ */
 
-const result = 3 >= 7; // boolean
-console.log(result);
+// const result = 8 < 5; // boolean
+// console.log(result);
 
-// < -> ata obosooi boro hote hobe (true)
-// > -> ata obosooi chot hote hobe (true)
+// < () ---> ata obossoi boro hote hobe (true)
+// () > ---> ata obossoi boro hote hobe (true)
+
+// const result = 8 <= 8; // boolean
+// console.log(result);
